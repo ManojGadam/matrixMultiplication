@@ -1,6 +1,6 @@
-# Lab2 - Parallel Matrix Multiplication Problem
+#  Parallel Matrix Multiplication Problem
 
-This lab performs matrix multiplication sequentially and using threads and compares both the results and displays the success message.
+This program performs matrix multiplication sequentially and using threads and compares both the results and displays the success message.
 
 ## How to build
 To build this shell run "make" in linux shell or bash
